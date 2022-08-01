@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\obj\Debug\1.KodowanieDekodowanieBase64.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\obj\Debug\1.KodowanieDekodowanieBase64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\obj\Debug\_1.KodowanieDekodowanieBase64.Form1.resources
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\obj\Debug\_1.KodowanieDekodowanieBase64.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\obj\Debug\1.KodowanieDekodowanieBase64.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\obj\Debug\1.KodowanieDekodowanieBase64.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\bin\Debug\1.KodowanieDekodowanieBase64.exe.config
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\bin\Debug\1.KodowanieDekodowanieBase64.exe
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\bin\Debug\1.KodowanieDekodowanieBase64.pdb
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\obj\Debug\1.KodowanieDekodowanieBase64.exe
+C:\Users\Praktykant\source\repos\1.KodowanieDekodowanieBase64\1.KodowanieDekodowanieBase64\obj\Debug\1.KodowanieDekodowanieBase64.pdb
