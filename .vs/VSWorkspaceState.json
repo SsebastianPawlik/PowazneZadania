@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\1.KodowanieDekodowanieBase64",
+    "\\2.KompresjaSzyfrowanie"
   ],
+  "SelectedNode": "\\2.KompresjaSzyfrowanie\\obj",
   "PreviewInSolutionExplorer": false
 }
