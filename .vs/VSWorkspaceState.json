@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1.KodowanieDekodowanieBase64",
-    "\\2.KompresjaSzyfrowanie"
+    "\\2.KompresjaSzyfrowanie",
+    "\\2.KompresjaSzyfrowanie\\bin",
+    "\\2.KompresjaSzyfrowanie\\bin\\Debug",
+    "\\2.KompresjaSzyfrowanie\\bin\\Release",
+    "\\2.KompresjaSzyfrowanie\\obj",
+    "\\2.KompresjaSzyfrowanie\\obj\\Debug",
+    "\\2.KompresjaSzyfrowanie\\obj\\Debug\\TempPE",
+    "\\2.KompresjaSzyfrowanie\\obj\\Release",
+    "\\2.KompresjaSzyfrowanie\\Properties"
   ],
-  "SelectedNode": "\\2.KompresjaSzyfrowanie\\obj",
+  "SelectedNode": "\\1.KodowanieDekodowanieBase64",
   "PreviewInSolutionExplorer": false
 }
