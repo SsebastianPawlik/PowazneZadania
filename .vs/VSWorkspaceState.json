@@ -1,16 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\2.KompresjaSzyfrowanie",
-    "\\2.KompresjaSzyfrowanie\\bin",
-    "\\2.KompresjaSzyfrowanie\\bin\\Debug",
-    "\\2.KompresjaSzyfrowanie\\bin\\Release",
-    "\\2.KompresjaSzyfrowanie\\obj",
-    "\\2.KompresjaSzyfrowanie\\obj\\Debug",
-    "\\2.KompresjaSzyfrowanie\\obj\\Debug\\TempPE",
-    "\\2.KompresjaSzyfrowanie\\obj\\Release",
-    "\\2.KompresjaSzyfrowanie\\Properties"
+    "\\2.KompresjaSzyfrowanie"
   ],
-  "SelectedNode": "\\1.KodowanieDekodowanieBase64",
+  "SelectedNode": "\\2.KompresjaSzyfrowanie\\SzyfrowanieSymetrczne.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -16,7 +16,7 @@ namespace _2.KompresjaSzyfrowanie
         }
         Kompresja archiwum = new Kompresja();
         Szyfrowanie szyfr = new Szyfrowanie();
-        public string directoryPath = @"C:\Users\Praktykant\Desktop\Nowy folder\Grafika\Rozdzial_1";
+     //   public string directoryPath = @"C:\Users\Praktykant\Desktop\Nowy folder\Grafika\Rozdzial_1";
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -28,7 +28,6 @@ namespace _2.KompresjaSzyfrowanie
             if (FolderSelect.ShowDialog() == DialogResult.OK)
             {
                 sciezka = FolderSelect.SelectedPath;
-
             }
             DirectoryInfo Folderinfo = new DirectoryInfo(sciezka);
             foreach (FileInfo plikInfo in Folderinfo.GetFiles())
@@ -50,7 +49,6 @@ namespace _2.KompresjaSzyfrowanie
             foreach (FileInfo plikInfo in Folderinfo.GetFiles())
             {
                 archiwum.Decompress(plikInfo);
-                MessageBox.Show("Test");
             }
         }
 

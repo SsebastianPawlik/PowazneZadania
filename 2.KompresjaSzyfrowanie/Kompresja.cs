@@ -62,7 +62,7 @@ namespace _2.KompresjaSzyfrowanie
                     using (GZipStream decompressionStream = new GZipStream(originalFileStream, CompressionMode.Decompress))
                     {
                         decompressionStream.CopyTo(decompressedFileStream);
-                        Console.WriteLine($"Decompressed: {fileToDecompress.Name}");
+                        
                     }
                 }
             }
