@@ -1,19 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.Runtime.InteropServices;
 
 namespace _2.KompresjaSzyfrowanie
 {
-    internal class Szyfrowanie
+    internal class Deszyfracja
     {
-         public static void EncryptFile(string inputFile, string outputFile, string skey)
+        public static void DecryptFile(string inputFile, string outputFile, string skey)
         {
             try
             {
@@ -25,18 +22,18 @@ namespace _2.KompresjaSzyfrowanie
                      * Ideally you will want the IV key to be different from your key and you should always generate a new one for each encryption in other to achieve maximum security*/
                     byte[] IV = ASCIIEncoding.UTF8.GetBytes(skey);
 
-                    using (FileStream fsCrypt = new FileStream(outputFile, FileMode.Create))
+                    using (FileStream fsCrypt = new FileStream(inputFile, FileMode.Open))
                     {
-                        using (ICryptoTransform encryptor = aes.CreateEncryptor(key, IV))
+                        using (FileStream fsOut = new FileStream(outputFile, FileMode.Create))
                         {
-                            using (CryptoStream cs = new CryptoStream(fsCrypt, encryptor, CryptoStreamMode.Write))
+                            using (ICryptoTransform decryptor = aes.CreateDecryptor(key, IV))
                             {
-                                using (FileStream fsIn = new FileStream(inputFile, FileMode.Open))
+                                using (CryptoStream cs = new CryptoStream(fsCrypt, decryptor, CryptoStreamMode.Read))
                                 {
                                     int data;
-                                    while ((data = fsIn.ReadByte()) != -1)
+                                    while ((data = cs.ReadByte()) != -1)
                                     {
-                                        cs.WriteByte((byte)data);
+                                        fsOut.WriteByte((byte)data);
                                     }
                                 }
                             }
@@ -46,7 +43,7 @@ namespace _2.KompresjaSzyfrowanie
             }
             catch (Exception ex)
             {
-                // failed to encrypt file
+                // failed to decrypt file
             }
         }
     }

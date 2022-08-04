@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace _2.KompresjaSzyfrowanie
 {
@@ -43,7 +47,6 @@ namespace _2.KompresjaSzyfrowanie
                                 }
                             }
                             FileInfo info = new FileInfo(directoryPath + Path.DirectorySeparatorChar + fileToCompress.Name + ".gz");
-
                         }
                     }
                 }
@@ -62,12 +65,11 @@ namespace _2.KompresjaSzyfrowanie
                     using (GZipStream decompressionStream = new GZipStream(originalFileStream, CompressionMode.Decompress))
                     {
                         decompressionStream.CopyTo(decompressedFileStream);
-                        
+
                     }
                 }
             }
         }
     }
 }
-
 
