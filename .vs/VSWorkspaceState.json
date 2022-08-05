@@ -3,6 +3,10 @@
     "",
     "\\2.KompresjaSzyfrowanie"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\2.KompresjaSzyfrowanie\\2.KompresjaSzyfrowanie.sln",
+=======
+  "SelectedNode": "\\2.KompresjaSzyfrowanie\\Form1.cs",
+>>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
   "PreviewInSolutionExplorer": false
 }
