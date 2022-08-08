@@ -57,12 +57,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="Aes.cs" />
-=======
-<<<<<<< HEAD
     <Compile Include="Aes.cs" />
-=======
 >>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
 >>>>>>> b77e65c58cb4da0ed50cf253e51ea529e042b527
     <Compile Include="Deszyfracja.cs" />
