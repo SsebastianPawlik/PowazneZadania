@@ -93,6 +93,7 @@ namespace _2.KompresjaSzyfrowanie
             Deszyfracja.DecryptFile(Plik2.Text, extractPath, "1234567898765");
             Deszyfracja.DecryptFile(@"C:\Users\Praktykant\Desktop\extract.zip", @"C:\Users\Praktykant\Desktop\extractss.zip", "1234512345678976");
             Deszyfracja.DecryptFile(Plik2.Text, extractPath, "1234567898765");
+
             Deszyfracja.DecryptFile(@"C:\Users\Praktykant\Desktop\extract.zip", @"C:\Users\Praktykant\Desktop\extractss.zip", "1234512345678976");
         }
 
