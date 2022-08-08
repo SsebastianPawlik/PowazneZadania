@@ -37,7 +37,7 @@
             this.WybierzPlik = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-<<<<<<< HEAD
+
             this.Plik2 = new System.Windows.Forms.TextBox();
             this.WybierzPlik2 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
@@ -45,14 +45,14 @@
             this.Docelowa = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.Nazwa = new System.Windows.Forms.TextBox();
-=======
+
             this.textBox1 = new System.Windows.Forms.TextBox();
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             this.SuspendLayout();
             // 
             // Kompresja
             // 
-<<<<<<< HEAD
+
             this.Kompresja.Location = new System.Drawing.Point(11, 132);
             this.Kompresja.Name = "Kompresja";
             this.Kompresja.Size = new System.Drawing.Size(75, 23);
@@ -64,7 +64,7 @@
             // Dekompresja
             // 
             this.Dekompresja.Location = new System.Drawing.Point(92, 132);
-=======
+
             this.button1.Location = new System.Drawing.Point(11, 69);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
@@ -97,7 +97,7 @@
             // Dekompresja
             // 
             this.Dekompresja.Location = new System.Drawing.Point(92, 69);
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             this.Dekompresja.Name = "Dekompresja";
             this.Dekompresja.Size = new System.Drawing.Size(81, 23);
             this.Dekompresja.TabIndex = 3;
@@ -107,11 +107,11 @@
             // 
             // button2
             // 
-<<<<<<< HEAD
+
             this.button2.Location = new System.Drawing.Point(323, 132);
-=======
+
             this.button2.Location = new System.Drawing.Point(335, 69);
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 4;
@@ -122,11 +122,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-<<<<<<< HEAD
+
             this.label1.Location = new System.Drawing.Point(13, 44);
-=======
+
             this.label1.Location = new System.Drawing.Point(13, 13);
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(96, 13);
             this.label1.TabIndex = 5;
@@ -134,22 +134,22 @@
             // 
             // Plik
             // 
-<<<<<<< HEAD
+
             this.Plik.Location = new System.Drawing.Point(115, 41);
-=======
+
             this.Plik.Location = new System.Drawing.Point(115, 10);
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             this.Plik.Name = "Plik";
             this.Plik.Size = new System.Drawing.Size(346, 20);
             this.Plik.TabIndex = 6;
             // 
             // WybierzPlik
             // 
-<<<<<<< HEAD
+
             this.WybierzPlik.Location = new System.Drawing.Point(469, 39);
-=======
+
             this.WybierzPlik.Location = new System.Drawing.Point(469, 8);
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             this.WybierzPlik.Name = "WybierzPlik";
             this.WybierzPlik.Size = new System.Drawing.Size(34, 23);
             this.WybierzPlik.TabIndex = 7;
@@ -159,11 +159,11 @@
             // 
             // button3
             // 
-<<<<<<< HEAD
+
             this.button3.Location = new System.Drawing.Point(215, 132);
-=======
+
             this.button3.Location = new System.Drawing.Point(219, 69);
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 8;
@@ -174,7 +174,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-<<<<<<< HEAD
+
             this.label2.Location = new System.Drawing.Point(12, 72);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(104, 13);
@@ -239,7 +239,7 @@
             this.Nazwa.Name = "Nazwa";
             this.Nazwa.Size = new System.Drawing.Size(166, 20);
             this.Nazwa.TabIndex = 16;
-=======
+
             this.label2.Location = new System.Drawing.Point(12, 41);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(96, 13);
@@ -252,13 +252,13 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(346, 20);
             this.textBox1.TabIndex = 10;
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-<<<<<<< HEAD
+
             this.ClientSize = new System.Drawing.Size(632, 253);
             this.Controls.Add(this.Nazwa);
             this.Controls.Add(this.label4);
@@ -267,10 +267,10 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.WybierzPlik2);
             this.Controls.Add(this.Plik2);
-=======
+
             this.ClientSize = new System.Drawing.Size(632, 213);
             this.Controls.Add(this.textBox1);
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.WybierzPlik);
@@ -297,7 +297,7 @@
         private System.Windows.Forms.Button WybierzPlik;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label label2;
-<<<<<<< HEAD
+
         private System.Windows.Forms.TextBox Plik2;
         private System.Windows.Forms.Button WybierzPlik2;
         private System.Windows.Forms.Label label3;
@@ -305,9 +305,9 @@
         private System.Windows.Forms.Button Docelowa;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox Nazwa;
-=======
+
         private System.Windows.Forms.TextBox textBox1;
->>>>>>> 7e43d2b74099637a1e149b827a085b866bf4d629
+
     }
 }
 
