@@ -1,0 +1,13 @@
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\bin\Debug\3.PorownywaniePlikow.exe.config
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\bin\Debug\3.PorownywaniePlikow.exe
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\bin\Debug\3.PorownywaniePlikow.pdb
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\bin\Debug\DiffMatchPatch.dll
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\3.PorownywaniePlikow.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\3.PorownywaniePlikow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\_3.PorownywaniePlikow.Form1.resources
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\_3.PorownywaniePlikow.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\3.PorownywaniePlikow.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\3.PorownywaniePlikow.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\3.PorownywaniePlikow.csproj.CopyComplete
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\3.PorownywaniePlikow.exe
+C:\Users\Praktykant\source\repos\3.PorownywaniePlikow\3.PorownywaniePlikow\obj\Debug\3.PorownywaniePlikow.pdb
