@@ -1,0 +1,11 @@
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\bin\Debug\4.Brainfuck.exe.config
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\bin\Debug\4.Brainfuck.exe
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\bin\Debug\4.Brainfuck.pdb
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\obj\Debug\4.Brainfuck.csproj.AssemblyReference.cache
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\obj\Debug\4.Brainfuck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\obj\Debug\_4.Brainfuck.Form1.resources
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\obj\Debug\_4.Brainfuck.Properties.Resources.resources
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\obj\Debug\4.Brainfuck.csproj.GenerateResource.cache
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\obj\Debug\4.Brainfuck.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\obj\Debug\4.Brainfuck.exe
+C:\Users\Praktykant\source\repos\4.Brainfuck\4.Brainfuck\obj\Debug\4.Brainfuck.pdb
